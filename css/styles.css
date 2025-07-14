@@ -65,6 +65,9 @@ input:focus {
 .form-input:disabled {
     background-color: #ddd;
 }
+.mensage-error{
+    color: #ea3636;
+}
 .btn-container{
     display: flex;
     justify-content: space-between;
@@ -123,7 +126,6 @@ input:focus {
 }
 .social-media img{
     display: block;
-
 }
 .social-media:hover{
     border: 1px solid #ff8400;
