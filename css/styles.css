@@ -1,3 +1,5 @@
+@import 'modal.css';
+@import 'buttons.css';
 * {
     box-sizing: border-box;
     padding: 0;
